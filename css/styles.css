@@ -17,6 +17,15 @@ hr {
     color: white;
 }
 
+a {
+    color: #dddddd;
+    text-decoration: dashed;
+}
+
+table {
+    font-family: 'Courier New', Courier, monospace;        
+}
+
 .titlebar a {
     color: white;
     text-decoration: none;

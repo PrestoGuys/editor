@@ -1,0 +1,3 @@
+b27e80b15029954f63354ba4c02d1a1419f3b7b2d89d10b00e9f2778bdc11ea3  Awesome Editor 0.0.1 Windows.zip
+18a1cfce79b871f4fe41a14b0b7ec33df80225bf83e26975d505e3c20cfd8416  Awesome Editor 0.0.1 Linux.zip
+596817d0b7baa8caa90291ac9eed3e14fddcfec1351c1bbd7b12b03343e5ae57  Awesome Editor 0.0.1 Source.zip
